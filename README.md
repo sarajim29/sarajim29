@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA MI NOMBRE ES SARA CLAUDIA JIMÉNEZ SALVADOR 👋
 
 <!--
 **sarajim29/sarajim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.google.com.mx/search?q=MUSICA&sca_esv=579517186&tbm=isch&sxsrf=AM9HkKlskRSmRotnTIZu0yYrD4GzjDWDJg:1699138000360&source=lnms&sa=X&ved=2ahUKEwia6L2ntquCAxVMNEQIHYTbDZoQ_AUoAnoECAMQBA&biw=1242&bih=555&dpr=1.1#imgrc=fjOp0FKc4jFmTM)https://www.google.com.mx/search?q=MUSICA&sca_esv=579517186&tbm=isch&sxsrf=AM9HkKlskRSmRotnTIZu0yYrD4GzjDWDJg:1699138000360&source=lnms&sa=X&ved=2ahUKEwia6L2ntquCAxVMNEQIHYTbDZoQ_AUoAnoECAMQBA&biw=1242&bih=555&dpr=1.1#imgrc=fjOp0FKc4jFmTM">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://mediactiu.com/incrementa-tus-ventas-con-ayuda-del-diseno-grafico/)https://mediactiu.com/incrementa-tus-ventas-con-ayuda-del-diseno-grafico/">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
