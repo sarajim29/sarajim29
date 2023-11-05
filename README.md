@@ -9,7 +9,8 @@ Tengo 21 años
 2.  Manejo el Photoshop
     ![Programa Photoshop] [Photoshop]
    [Photoshop]: https://blog.adobe.com/es/publish/2021/03/10/photoshop-llega-a-los-mac-con-apple-silicon
-##Me gusta bailar
+
+>##Me gusta bailar
 **Hip hop**
 ![Baile Hip Hop] [Hip Hop]
 [Hip Hop]: https://www.pinterest.com.mx/pin/544372673682438450/
