@@ -10,7 +10,7 @@ Mis colores favoritos son el azul marino y el rojo fuerte
 [Grafico]: https://www.certus.edu.pe/blog/wp-content/uploads/2021/01/tendencias-disen%CC%83o-grafico-1160x630.jpg
 1. Manejo el **Illustrator**
 ![Programa Illustrator] [Illustrator]
-   [Illustrator]: https://www.certus.edu.pe/blog/wp-content/uploads/2021/01/tendencias-disen%CC%83o-grafico-1160x630.jpg
+   [Illustrator]: https://a.storyblok.com/f/197805/3024x1964/fd6dc95a2d/ai-header-visual.png/m/0x0/filters:format(png):quality(75)
 2.  Manejo el **Photoshop**
     ![Programa Photoshop] [Photoshop]
    [Photoshop]: https://a.storyblok.com/f/197805/3024x1964/fd6dc95a2d/ai-header-visual.png/m/0x0/filters:format(png):quality(75)
