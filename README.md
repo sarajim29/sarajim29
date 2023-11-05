@@ -1,6 +1,12 @@
 ### HOLA MI NOMBRE ES SARA CLAUDIA JIMÉNEZ SALVADOR 👋.
 Tengo 21 años
->Me gusta el **diseño gráfico**
+Mis colores favoritos son el azul marino y el rojo fuerte
+
+>Me estoy centrando en el mundo de la programación con diversos programas
+![Mundo Programación] [Programación]
+[Programación]: https://thevalley.es/blog/lenguajes-programacion-mas-demandados/
+
+>>Me gusta el **diseño gráfico**
 ![Diseño Grafico] [Grafico]
 [Grafico]: https://mediactiu.com/incrementa-tus-ventas-con-ayuda-del-diseno-grafico/
 1. Manejo el **Illustrator**
@@ -20,3 +26,5 @@ Tengo 21 años
 3. **Barchata**
 ![Baile Barchata] [Barchata]
 [Barchata]: https://www.correryfitness.com/baile/pasos-bachata-bailar-deja-mejor-que-shakira-prince-royce_2017040358eb3d220cf2abec9e158bb7.html
+peliculas
+libros
