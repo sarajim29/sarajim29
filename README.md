@@ -4,35 +4,34 @@ Mis colores favoritos son el azul marino y el rojo fuerte
 
 >Me estoy centrando en el mundo de la programación con diversos programas
 ![Mundo Programación] [Programación]
-[Programación]: https://thevalley.es/blog/lenguajes-programacion-mas-demandados/
-
+[Programación]: https://www.mtp.es/wp-content/uploads/2020/01/python_MTP.jpg
 >>Me gusta el **diseño gráfico**
 ![Diseño Grafico] [Grafico]
-[Grafico]: https://mediactiu.com/incrementa-tus-ventas-con-ayuda-del-diseno-grafico/
+[Grafico]: https://www.certus.edu.pe/blog/wp-content/uploads/2021/01/tendencias-disen%CC%83o-grafico-1160x630.jpg
 1. Manejo el **Illustrator**
 ![Programa Illustrator] [Illustrator]
-   [Illustrator]: https://geekflare.com/es/best-alternatives-illustrator-freepaid/
+   [Illustrator]: https://www.certus.edu.pe/blog/wp-content/uploads/2021/01/tendencias-disen%CC%83o-grafico-1160x630.jpg
 2.  Manejo el **Photoshop**
     ![Programa Photoshop] [Photoshop]
-   [Photoshop]: https://blog.adobe.com/es/publish/2021/03/10/photoshop-llega-a-los-mac-con-apple-silicon
+   [Photoshop]: https://a.storyblok.com/f/197805/3024x1964/fd6dc95a2d/ai-header-visual.png/m/0x0/filters:format(png):quality(75)
 
 >>>Me gusta bailar
 1. **Hip hop**
 ![Baile Hip Hop] [Hip Hop]
-[Hip Hop]: https://www.pinterest.com.mx/pin/544372673682438450/
+[Hip Hop]: https://ca-times.brightspotcdn.com/dims4/default/2e7d2bf/2147483647/strip/true/crop/4882x3254+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Ff8%2Fd9f2cfe8a93b79f216073d68616f%2F97aa76831fa44afb81adc159db1d4c67
 2. **Reggaeton**
 ![Baile Reggaeton] [Reggaeton]
-[Reggaeton]: https://fulldance.net/clases-de-reggaeton/
+[Reggaeton]: https://i.pinimg.com/736x/5b/e2/1c/5be21cdc439437dd8b9e7757e6aae9a0.jpg
 3. **Barchata**
-![Baile Barchata] [Barchata]
-[Barchata]: https://www.correryfitness.com/baile/pasos-bachata-bailar-deja-mejor-que-shakira-prince-royce_2017040358eb3d220cf2abec9e158bb7.html
->>>Me gusta leer libros como:
+![Baile Bachata] [Bachata]
+[Bachata]: https://musicandote.com/wp-content/uploads/2014/02/bachata.jpeg
+>>>>Me gusta leer libros como:
 1. **Trece Razones Porque**
 ![Libro Trece Razones Porque] [Trece Razones Porque]
-[Trece Razones Porque]: https://www.gandhi.com.mx/por-trece-razones-serie-netflix?gclid=CjwKCAjw15eqBhBZEiwAbDomEvmHRNVWxJJFZZfcChGVXrsj4N9gnZ0ji0V7cg8bQ54hBV7ey_N9qhoCAMQQAvD_BwE
+[Trece Razones Porque]: https://www.noroeste.com.mx/binrepository/600x400/0c0/0d0/none/12707/MIIN/13_reasons_why-141164_NO1083400_MG8941283.jpg
 2. **Las cosas por su nombre**
 ![Libro Las cosas por su nombre] [Libro Las cosas por su nombre]
-[Libro Las cosas por su nombre]: https://www.elsotano.com/libro/las-cosas-por-su-nombre_10570491
+[Libro Las cosas por su nombre]: https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665290.jpg
 3. **Oscuros**
 ![Libro Oscuros] [Oscuros]
 [Oscuros]: https://www.buscalibre.com.mx/libro-oscuros/9788484415992/p/6130880
@@ -48,5 +47,14 @@ Mis colores favoritos son el azul marino y el rojo fuerte
 7. **Demon Slayer**
 ![Libro Demon Slayer] [Demon Slayer]
 [Demon Slayer]: https://tiendapanini.com.mx/media/catalog/product/q/d/qdcol004_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897
-
+>>>>>Me gusta ver sagas como:
+1. **Rápidos y Furiosos**
+![Sagam Rápidos y Furiosos] [Rápidos y Furiosos]
+[Rápidos y Furiosos]: https://www.reddit.com/r/peliculas/comments/14qzth7/cu%C3%A1l_es_su_pel%C3%ADcula_favorita_de_la_saga_de/?rdt=48014
+2. **Los Venqgadores**
+![Saga Los vengadores] [Los vengadores]
+[Los vengadores]: https://i.pinimg.com/736x/b4/10/40/b41040161fc0a08843e645affbea869c.jpg
+3. **After**
+![Saga After] [After]
+[After]: https://i.pinimg.com/736x/79/1b/77/791b773a9d26950671cd52c2f83725d2.jpg
 pasatiempos
