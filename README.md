@@ -1,6 +1,5 @@
-### HOLA MI NOMBRE ES SARA CLAUDIA JIMÉNEZ SALVADOR 👋
-
-<!--
-**sarajim29/sarajim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HOLA MI NOMBRE ES SARA CLAUDIA JIMÉNEZ SALVADOR 👋.
 
 >Me gusta el **diseño gráfico**
+![Diseño Grafico] [Grafico]
+[Grafico]: https://mediactiu.com/incrementa-tus-ventas-con-ayuda-del-diseno-grafico/
