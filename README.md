@@ -34,19 +34,19 @@ Mis colores favoritos son el azul marino y el rojo fuerte
 [Libro Las cosas por su nombre]: https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665290.jpg
 3. **Oscuros**
 ![Libro Oscuros] [Oscuros]
-[Oscuros]: https://www.buscalibre.com.mx/libro-oscuros/9788484415992/p/6130880
+[Oscuros]: https://m.media-amazon.com/images/I/41NgEsw5IPL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA229%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
 4. **Mulan**
 ![Libro Mulan] [Mulan]
-[Mulan]: https://www.planetadelibros.com.mx/libro-mulan-la-novela/306341
+[Mulan]: https://www.planetadelibros.com.mx/usuaris/libros/fotos/307/m_libros/portada_mulan-la-novela_disney_202001241717.jpg
 5. **Boulevard**
 ![Libro Boulevard] [Boulevard]
-[Boulevard]: https://www.amazon.com.mx/Boulevard-versi%C3%B3n-Flor-M-Salvador/dp/6073810490/ref=asc_df_6073810490/?tag=gledskshopmx-20&linkCode=df0&hvadid=547161754977&hvpos=&hvnetw=g&hvrand=5868529357342264663&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047087&hvtargid=pla-1614561269016&psc=1
+[Boulevard]: https://m.media-amazon.com/images/I/514pJpaFRJL.jpg
 6. **Pokemon**
 ![Libro Pokemon] [Pokemon]
-[Pokemon]:https://www.amazon.com.mx/Pok%C3%A9mon-esencial-definitiva-Varios-Autores/dp/6073150261/ref=asc_df_6073150261/?tag=gledskshopmx-20&linkCode=df0&hvadid=295439609998&hvpos=&hvnetw=g&hvrand=4344045991523855044&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047087&hvtargid=pla-433059126122&psc=1
+[Pokemon]:https://m.media-amazon.com/images/I/91ZP7l9fIzL._AC_UF894,1000_QL80_.jpg
 7. **Demon Slayer**
 ![Libro Demon Slayer] [Demon Slayer]
-[Demon Slayer]: https://tiendapanini.com.mx/media/catalog/product/q/d/qdcol004_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897
+[Demon Slayer]: https://m.media-amazon.com/images/I/81ZNkhqRvVL._AC_UF894,1000_QL80_.jpg
 >>>>>Me gusta ver sagas como:
 1. **Rápidos y Furiosos**
 ![Sagam Rápidos y Furiosos] [Rápidos y Furiosos]
@@ -57,4 +57,29 @@ Mis colores favoritos son el azul marino y el rojo fuerte
 3. **After**
 ![Saga After] [After]
 [After]: https://i.pinimg.com/736x/79/1b/77/791b773a9d26950671cd52c2f83725d2.jpg
-pasatiempos
+>>>>>>Mis pasatiempos favoritos son:
+1. **Escuchar Música**
+![Escuchar Música] [Música]
+[Música]: https://s1.eestatic.com/2019/09/04/elandroidelibre/el_androide_libre_426720170_179609163_1706x960.jpg
+2. **Colorear mandalas**
+![Colorear Mandalas] [Mandalas]
+[Mandalas]: https://d2z8zvwx6itreb.cloudfront.net/como-colorear-mandalas-como-un-experto-un-paso-a-paso-facilisimo-large-l2g0YSc3g4.jpg
+3. **Practicar Diseño**
+![Practicar Diseño] [Diseño]
+[Diseño]: https://www.esdip.com/wp-content/uploads/2020/01/Descubre-el-equipo-de-ilustrador-que-necesitas-para-crear-tus-primeras-ilustraciones.jpg
+4. **Practicar Programación**
+![Practicar Programación] [Programación]
+[Programación]: https://static.platzi.com/media/user_upload/programacion-2b194ffd-cbae-487f-a0c8-40c15a838ed2.jpg
+>>>>>>>Mi música favorita es:
+1. **Rap**
+![Música Rap] [Rap]
+[Rap]: https://elordenmundial.com/wp-content/uploads/2020/09/Public_Enemy-rap-historia-politica-e1600533065877.jpg
+2. **Trap**
+![Música Trap] [Trap]
+[Trap]: https://umomag.com/wp-content/uploads/2019/10/articulo-10-artistas-clave-para-entender-el-trap-latino-2019-umomag.jpg
+3. **Reggaeton**
+![Música Reggaeton] [Reggaeton]
+[Reggaeton]: https://megastar-cdnmed.megastar.fm/resources/jpg/1/7/1631687850571.jpg
+4. **Electrónica**
+![Música Electrónica] [Electrónica]
+[Electrónica]: https://topadventure.com/__export/1677188173506/sites/laverdad/img/2023/02/23/festival_edc_mxxico_2023_portada.jpg_1164914248.jpg
