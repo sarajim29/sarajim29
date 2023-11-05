@@ -16,7 +16,7 @@ Mis colores favoritos son el azul marino y el rojo fuerte
     ![Programa Photoshop] [Photoshop]
    [Photoshop]: https://blog.adobe.com/es/publish/2021/03/10/photoshop-llega-a-los-mac-con-apple-silicon
 
->Me gusta bailar
+>>>Me gusta bailar
 1. **Hip hop**
 ![Baile Hip Hop] [Hip Hop]
 [Hip Hop]: https://www.pinterest.com.mx/pin/544372673682438450/
